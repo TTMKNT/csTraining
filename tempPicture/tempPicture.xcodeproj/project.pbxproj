@@ -19,6 +19,7 @@
 		4B82AC012093807A008ED868 /* GridViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B82ABFD2093807A008ED868 /* GridViewCell.swift */; };
 		4B82AC022093807A008ED868 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B82ABFE2093807A008ED868 /* MasterViewController.swift */; };
 		4B82AC032093807A008ED868 /* AssetGridViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B82ABFF2093807A008ED868 /* AssetGridViewController.swift */; };
+		CCC624002095959B00129098 /* AssetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCC623FF2095959B00129098 /* AssetViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		4B82ABFD2093807A008ED868 /* GridViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GridViewCell.swift; path = ../../../Downloads/ExampleappusingPhotosframework/Shared/GridViewCell.swift; sourceTree = "<group>"; };
 		4B82ABFE2093807A008ED868 /* MasterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MasterViewController.swift; path = ../../../Downloads/ExampleappusingPhotosframework/Shared/MasterViewController.swift; sourceTree = "<group>"; };
 		4B82ABFF2093807A008ED868 /* AssetGridViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AssetGridViewController.swift; path = ../../../Downloads/ExampleappusingPhotosframework/Shared/AssetGridViewController.swift; sourceTree = "<group>"; };
+		CCC623FF2095959B00129098 /* AssetViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AssetViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				4B82ABFC20938079008ED868 /* AssetViewController.swift */,
 				4B82ABFD2093807A008ED868 /* GridViewCell.swift */,
 				4B82ABFE2093807A008ED868 /* MasterViewController.swift */,
+				CCC623FF2095959B00129098 /* AssetViewController.swift */,
 			);
 			path = tempPicture;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				4B82AC032093807A008ED868 /* AssetGridViewController.swift in Sources */,
 				4B82AC012093807A008ED868 /* GridViewCell.swift in Sources */,
 				4B82ABE520932724008ED868 /* AppDelegate.swift in Sources */,
+				CCC624002095959B00129098 /* AssetViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
